@@ -1,0 +1,31 @@
+{
+  "name": "corruptiperspiciatis",
+  "version": "1.0.0",
+  "description": "API for blockscout explorer, POA, ETH",
+  "main": "blockscout.js",
+  "scripts": {
+    "test": "mocha test.js",
+    "run": "node blockscout.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LavonPrice/corruptiperspiciatis.git"
+  },
+  "keywords": [
+    "vel",
+    "voluptatem",
+    "quo",
+    "ETH",
+    "etherium",
+    "aut"
+  ],
+  "author": "AvaYost",
+  "license": "ISC",
+  "homepage": "https://github.com/LavonPrice/corruptiperspiciatis.git",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
